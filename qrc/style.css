@@ -1,0 +1,33 @@
+/*QPushButton {
+    background: qlineargradient(x1: 1, y1: 1, x2: 0, y2: 1,
+                stop: 0 #fbc2eb, stop: 1.0 #a6c1ee);
+    border: 1px solid #a6c1ee;
+    border-radius: 15px;
+    font: 12px "Fira Sans" sans-serif;
+    font-weight: 700;
+    color: white;
+}
+
+QPushButton:hover {
+    background: #a6c1ee;
+}
+
+QPushButton:pressed {
+    background: #fbc2eb;
+    border: 1px solid #fbc2eb;
+    color: #a6c1ee;
+}*/
+
+QLabel {
+    border: 1px solid #a6c1ee;
+    border-radius: 15px;
+    color: #6694e2;
+}
+
+QMainWindow {
+    background-color: #eef1ff;
+}
+
+QDialog {
+    background-color: #eef1ff;
+}
